@@ -2,25 +2,13 @@
 
 <p align="center">
     <b>Características</b><br>
-    PHP 8.0 | Bootstrap 5 | Jquery 3.6 | Font awesome 6.1 | Animate 4.11
+    PHP +8.0 | Bootstrap 5 | Jquery 3.6 | Font awesome 6.1 | Animate 4.11
 </p>
 
 ## About App
 
 La siguiente aplicación muestra el juego del ahorcado en una versión web. Ha sido programado en PHP 8.0 usando el framework Laravel 8. 
 Dada la simplicitud de la aplicación, no ha sido necesario integrar una base de datos.
-
-El proyecto se encuentra alojado en un servidor personal con el siguiente subdominio:
-https://penjat.dinowebb.com/
-
-Si deseas descargarlo, puedes hacerlo a través de este repositorio o a través del enlace de más abajo
-https://penjat.dinowebb.com/ahorcado.zip
-
-Para su funcionamiento, únicamente tienes que seguir los siguientes pasos:
-
-- Asegurarte de que estás usando PHP 7.4 +
-- El document root debe empezar dentro de la carpeta public
-- Asegurarte de que tienes los permisos correctos de las carpetas. Más info: https://diegooo.com/revision-5-consejos-para-codigos-de-laravel/
 
 ## Funcionamiento
 
@@ -38,3 +26,24 @@ Para asegurar el buen funcionamiento del juego, se han realizado las pruebas que
 https://penjat.dinowebb.com/pruebas.pdf
 
 ## License
+MIT License
+
+Copyright (c) 2026 Luis Garcés
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
